@@ -93,7 +93,7 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. [Отчет](lab3/Arsenyev_Daniel_IDM-22-01.docx)
+1. [Отчет](https://github.com/manyar1/internet-technology/raw/master/lab3/Arsenyev_Daniel_IDM-22-01.docx)
 2. [Сценарий Cisco Packet Tracer](lab3/Stsenarii_774_4_dlya_CPT.pka)
 
 ## ✅ Экзаменационные билет №17
