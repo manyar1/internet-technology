@@ -96,7 +96,7 @@
 1. [Отчет](https://github.com/manyar1/internet-technology/raw/master/lab3/Arsenyev_Daniel_IDM-22-01.docx)
 2. [Сценарий Cisco Packet Tracer](https://github.com/manyar1/internet-technology/raw/master/lab3/Stsenarii_774_4_dlya_CPT.pka)
 
-## ✅ Экзаменационные билет №17
+## ✅ Экзаменационный билет №17
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №17](https://github.com/stankin/inet-2022/wiki/exam17)
